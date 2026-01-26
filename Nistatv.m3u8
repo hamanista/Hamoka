@@ -57,8 +57,8 @@ http://138.201.61.223:1935/live/Kurd7HD/HawezHD.m3u8
 http://142.132.133.190:1935/live/ZAVAR-TV/playlist.m3u8
 #EXTINF:0,INFINITY TV
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
-#EXTINF:0,PESHMARGA
-http://142.132.133.190:1935/live/peshmerge/index.m3u8
+#EXTINF:0,Jin ᴴᴰ
+https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:0,Rawshan tv
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 #EXTINF:0, Bahar
@@ -316,6 +316,7 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="173" tvg-name="قناة عجمان بث مباشر" tvg-logo="" group-title="Arabic Channels",قناة عجمان بث مباشر
 https://cdn1.logichost.in/ajmantv/live/chunklist_w1306842351.m3u8
+
 
 
 
