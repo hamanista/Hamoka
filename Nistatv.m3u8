@@ -115,6 +115,8 @@ http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
 http://baskhd.ddns.net:40/live/baskhd/HawezHD.m3u8
 #EXTINF:0,SHAR HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:0,SHAR QURAN HD
+https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
 #EXTINF:0,WELAT
 http://stream.welattv.net:1935/welat/tv/playlist.m3u8
 #EXTINF:0,ZNAR
@@ -179,4 +181,5 @@ https://hamanista.short.gy/animal-planet.m3u8
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:0,Sport
 https://live.teleradiocom.tj/8/3m.m3u8
+
 
