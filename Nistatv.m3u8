@@ -7,8 +7,6 @@ https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:0,NRT 1 HD
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
-#EXTINF:0,NRT 1 HD
-http://109.123.245.192/Nrt/tracks-v1a1/mono.m3u8
 #EXTINF:0,KURDSAT HD
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:0,KURDSAT NEWS HD
@@ -181,3 +179,4 @@ https://hamanista.short.gy/animal-planet.m3u8
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:0,Sport
 https://live.teleradiocom.tj/8/3m.m3u8
+
