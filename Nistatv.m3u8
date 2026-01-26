@@ -15,8 +15,6 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w719070807_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:0,CHANNEL 8 HD
 https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
-#EXTINF:0,ZOOM NEWS HD
-https://live.zoomnews.info/live/Zoom/index.m3u8
 #EXTINF:0,KURDMAX
 https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
 #EXTINF:0,KURDMAX SHOW
@@ -24,7 +22,7 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 #EXTINF:0,TRT HD
 http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,KURD CHANNEL HD
-https://cdn.northtelecom.org/KurdChannel.m3u8
+https://northtelecom.live/KURD.m3u8
 #EXTINF:0,PAYAM HD
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:0,WAR TV HD
@@ -318,5 +316,6 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="173" tvg-name="قناة عجمان بث مباشر" tvg-logo="" group-title="Arabic Channels",قناة عجمان بث مباشر
 https://cdn1.logichost.in/ajmantv/live/chunklist_w1306842351.m3u8
+
 
 
