@@ -71,10 +71,10 @@ http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
 http://142.132.133.190:1935/live/befrintv/index.m3u8
 #EXTINF:0,ISTAR QURAN
 https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
-#EXTINF:0,NEWLINE 1
-https://live9.karwan.tv/Newlineyusfstore/index.m3u8
-#EXTINF:0,NEWLINE 2
-https://live9.karwan.tv/Newline2yusstore/tracks-v1a1/mono.m3u8
+#EXTINF:0,MaKa Live
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:0,MM SPORT
+http://mmn.mypsx.net:1935/live/mmnhdsport/media_w29500582_40502.m3u8
 #EXTINF:0,ZED
 https://cdn.karwan.tv/zed-tv/tracks-v1a1/mono.m3u8
 #EXTINF:0,ZED PLUS
