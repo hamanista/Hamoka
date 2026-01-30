@@ -16,7 +16,7 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w71907080
 #EXTINF:0,CHANNEL 8 HD
 https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
 #EXTINF:0,KURDMAX
-https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
 #EXTINF:0,KURDMAX SHOW
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 #EXTINF:0,TRT HD
@@ -75,20 +75,14 @@ https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:0,MM SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/media_w29500582_40502.m3u8
-#EXTINF:0,ZED
-https://cdn.karwan.tv/zed-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,KORDESTAN
+https://live-azd1102.telewebion.com/ek/kordestan/live/playlist.m3u8
 #EXTINF:0,ZED PLUS
 https://cdn.karwan.tv/zed-tv-plus/tracks-v1a1/mono.m3u8
 #EXTINF:0, UTV HAWLER
 https://cdn.karwan.tv/utv-hawler/tracks-v1a1/mono.m3u8
 #EXTINF:0, QALAT
 http://213.32.255.86:1935/live/Qellat_tv/chunklist_w349314109.m3u8
-#EXTINF:0, AVA SPORT
-https://live9.karwan.tv/Avasporttusfstore/tracks-v1a1/mono.m3u8
-#EXTINF:0, Persian Sport 1
-https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:0, SOLH SPORT
-https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:0,IMK QURAN HD
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
 #EXTINF:0,ANIMAL BOX HD
@@ -175,6 +169,8 @@ https://linear-100.frequency.stream/mt/studio/100/hls/master/playlist.m3u8
 https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:0,ANIMAL PLANET
 https://hamanista.short.gy/animal-planet.m3u8
+#EXTINF:0,BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
  #EXTINF:0, Persiana spor 3
 https://pepsi3.abntv.live/hls/psp3.m3u8
  #EXTINF:0, persiana sport4
@@ -183,5 +179,34 @@ https://pepsi4.abntv.live/hls/psp4.m3u8
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:0,  persiana sport 2
 https://pepsi.abntv.live/hls/4spstream.m3u8
-
+#EXTINF:0, FIFA
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:0, RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0, HORSE
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:0,  MBC1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:0, MBC 2
+http://154.58.202.18:8080/mbc2/index.m3u8
+#EXTINF:0, MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:0, MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-id="",MBC 5 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-id="",MBC Bollywood 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="",MBC Bollywood 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="",MBC Drama 
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="",MBC FM
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
+#EXTINF:-1 tvg-id="",MBC Masr 1 
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="",MBC Persia 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 tvg-id="",MBC Persia 
+https://hls.mbcpersia.live/hls/stream.m3u8
 
