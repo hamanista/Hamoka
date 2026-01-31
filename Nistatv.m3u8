@@ -185,28 +185,6 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0, HORSE
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:0,  MBC1
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:0, MBC 2
-http://154.58.202.18:8080/mbc2/index.m3u8
-#EXTINF:0, MBC 3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:0, MBC 4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-id="",MBC 5 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-id="",MBC Bollywood 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="",MBC Bollywood 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="",MBC Drama 
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-id="",MBC FM
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
-#EXTINF:-1 tvg-id="",MBC Masr 1 
-https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-id="",MBC Persia 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 tvg-id="",MBC Persia 
-https://hls.mbcpersia.live/hls/stream.m3u8
+
+
 
