@@ -77,8 +77,8 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/media_w29500582_40502.m3u8
 #EXTINF:0,KORDESTAN
 https://live-azd1102.telewebion.com/ek/kordestan/live/playlist.m3u8
-#EXTINF:0,ZED PLUS
-https://cdn.karwan.tv/zed-tv-plus/tracks-v1a1/mono.m3u8
+#EXTINF:0,NRT SPORT
+https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 #EXTINF:0, UTV HAWLER
 https://cdn.karwan.tv/utv-hawler/tracks-v1a1/mono.m3u8
 #EXTINF:0, QALAT
@@ -185,6 +185,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0, HORSE
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
 
 
 
