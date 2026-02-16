@@ -1,194 +1,195 @@
 #EXTM3U  
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png" group-title="",RUDAW
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png" group-title="",RUDAW
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/k-24.png"KURDISTAN24
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/k-24.png"KURDISTAN24
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/ava.png"AVA NEWS HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/ava.png"AVA NEWS HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/nrt-1.png"NRT 1 HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/nrt-1.png"NRT 1 HD
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat.png"KURDSAT HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat.png"KURDSAT HD
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat-news.png"KURDSAT NEWS HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat-news.png"KURDSAT NEWS HD
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdstan-tv.png"KURDISTAN HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/kurdstan-tv.png"KURDISTAN HD
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w719070807_b1700000_sleng_t64MTA4MHA=.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2024/01/cannel-8.png"CHANNEL 8 HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2024/01/cannel-8.png"CHANNEL 8 HD
 https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdmax.png"KURDMAX
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/kurdmax.png"KURDMAX
 https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/kurd-max-shgow.png"KURDMAX SHOW
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/kurd-max-shgow.png"KURDMAX SHOW
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/11/trt-kurdi.png"TRT HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/11/trt-kurdi.png"TRT HD
 http://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/nrt-4.png" NRT 4
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/nrt-4.png" NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://kurditv.com/wp-content/uploads/2022/12/kurdch.tv_-640x360.png"KURD CHANNEL HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://kurditv.com/wp-content/uploads/2022/12/kurdch.tv_-640x360.png"KURD CHANNEL HD
 https://northtelecom.live/KURD.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="https://mixmedia.tv/wp-content/uploads/2022/08/payam.png"PAYAM HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/payam.png"PAYAM HD
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"WAR TV HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"WAR TV HD
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"4Kurd HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"4Kurd HD
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Amozhgary
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Amozhgary
 https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Kirkuk TV
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Kirkuk TV
 https://live.kirkuklive.live/hls/stream/index.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"SOZ MOVIES 
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"SOZ MOVIES 
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"LIKE MOVIES HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"LIKE MOVIES HD
 https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Gewher
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Gewher
 https://iptv-link.short.gy/Gewher.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Gewher Sport
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Gewher Sport
 https://iptv-link.short.gy/Gewher_Sport.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Gewher KIDS
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Gewher KIDS
 https://iptv-link.short.gy/Gewher_Kids.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" ZNAR KIDS
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" ZNAR KIDS
 https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"RANYA 
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"RANYA 
 https://hamanista.short.gy/ranya.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"STREK HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"STREK HD
 http://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w208463919_b5160000_sleng.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"BNAR HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"BNAR HD
 http://88.99.98.44:40/live/bnar4k/mono.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"ALA HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"ALA HD
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"KURD7 HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"KURD7 HD
 http://138.201.61.223:1935/live/Kurd7HD/HawezHD.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"ZAVAR HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"ZAVAR HD
 http://142.132.133.190:1935/live/ZAVAR-TV/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"INFINITY TV
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"INFINITY TV
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Jin ᴴᴰ
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Jin ᴴᴰ
 https://live.jintv.org/medialive/jintv.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Rawshan tv
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Rawshan tv
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" Bahar
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" Bahar
 http://51.89.152.180:80/live/BahraHD/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"RED TV
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"RED TV
 http://avrstream.com:1935/live/REDTV/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"KANAL 21
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"KANAL 21
 http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Befrin Tv
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Befrin Tv
 http://142.132.133.190:1935/live/befrintv/index.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"ISTAR QURAN
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"ISTAR QURAN
 https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"MaKa Live
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"MaKa Live
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"MM SPORT
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"MM SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/media_w29500582_40502.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"KORDESTAN
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"KORDESTAN
 https://live-azd1102.telewebion.com/ek/kordestan/live/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"NRT SPORT
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"NRT SPORT
 https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" UTV HAWLER
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" UTV HAWLER
 https://cdn.karwan.tv/utv-hawler/tracks-v1a1/mono.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" QALAT
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" QALAT
 http://213.32.255.86:1935/live/Qellat_tv/chunklist_w349314109.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"IMK QURAN HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"IMK QURAN HD
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"ANIMAL BOX HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"ANIMAL BOX HD
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"SHNA TV HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"SHNA TV HD
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"SHNA QURAN
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"SHNA QURAN
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Naqshi Media
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Naqshi Media
 http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"GARYAN TV
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"GARYAN TV
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"EURO KURD HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"EURO KURD HD
 http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"EMAN
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"EMAN
 http://avrstream.com:1935/live/emantv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"NIROJ HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"NIROJ HD
 http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"RAVAND HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"RAVAND HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"BASK TV HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"BASK TV HD
 http://baskhd.ddns.net:40/live/baskhd/HawezHD.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"SHAR HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"SHAR HD
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"SHAR QURAN HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"SHAR QURAN HD
 https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"WELAT
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"WELAT
 http://stream.welattv.net:1935/welat/tv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"ZNAR
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"ZNAR
 https://live20.bozztv.com/giatv/giatv-halabja88/halabja88/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"QURAN HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"QURAN HD
 http://tv.ezanvaktipro.com/hls/quran.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"MIHRAB HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"MIHRAB HD
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"SADA HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"SADA HD
 http://sada-hd.ddns.net:40/live/sadatv/index.m3u8?checkedby:kurdtv1
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Hormzyar
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Hormzyar
 http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Ashti Quran
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Ashti Quran
 http://avrstream.com:1935/live/AshtiTV/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"BATIFA TV
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"BATIFA TV
 http://88.99.98.44:40/live/BATIFA-TV/mono.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"AFARIN KIDS HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"AFARIN KIDS HD
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"BAXCHA AFARIN HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"BAXCHA AFARIN HD
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"KIDCO HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"KIDCO HD
 http://avrstream.com:1935/live/kidcohd/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"SPI KIDS
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"SPI KIDS
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"ZAROK HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"ZAROK HD
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"KHAK TV
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"KHAK TV
 http://bblserver.ddns.net:1935/stream/khakhd/halabja88.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"HALABJA HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"HALABJA HD
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"DERIN HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"DERIN HD
 http://baskhd.ddns.net:40/live/Derin/index.m3u8?checkedby:kurdtv1
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"MIX TV HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"MIX TV HD
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"AVAR TV HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"AVAR TV HD
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"FARWDA HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"FARWDA HD
 http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"BANGAWAZ BADINE HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"BANGAWAZ BADINE HD
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Barin family HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Barin family HD
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"Bnar Movies HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"Bnar Movies HD
 http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"SORAN ENTERTAIMENT
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"SORAN ENTERTAIMENT
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" NEXT TV
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" NEXT TV
 http://next.badinan.xyz:1935/nexttv/FHD/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"DUHOK HD
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"DUHOK HD
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"ROJHELAT
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"ROJHELAT
 https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"WILD EARTH
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"WILD EARTH
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"very Local
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"very Local
 https://linear-100.frequency.stream/mt/studio/100/hls/master/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"LOVE NATURE
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"LOVE NATURE
 https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"ANIMAL PLANET
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"ANIMAL PLANET
 https://hamanista.short.gy/animal-planet.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"BBC Earth
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
- #EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" Persiana spor 3
+ #EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" Persiana spor 3
 https://pepsi3.abntv.live/hls/psp3.m3u8
- #EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" persiana sport4
+ #EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" persiana sport4
 https://pepsi4.abntv.live/hls/psp4.m3u8
- #EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" persiana sport 1
+ #EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" persiana sport 1
 https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ"  persiana sport 2
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ"  persiana sport 2
 https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" FIFA
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" FIFA
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" RED BULL
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo="لۆگۆ" HORSE
+#EXTINF:-1tvg-id=""tvg-idname=""tvg-idlogo=لۆگۆ" HORSE
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
 
 
 
