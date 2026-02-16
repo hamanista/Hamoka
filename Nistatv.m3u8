@@ -7,13 +7,13 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ava.png"AVA NEWS HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo=tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/nrt-1.png"NRT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/nrt-1.png"NRT 1 HD
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo=tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat.png"KURDSAT HD
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat.png"KURDSAT HD
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo=tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat-news.png"KURDSAT NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdsat-news.png"KURDSAT NEWS HD
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo=tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2022/08/kurdstan-tv.png"KURDISTAN HD
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/kurdstan-tv.png"KURDISTAN HD
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w719070807_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=tvg-idlogo=https://mixmedia.tv/wp-content/uploads/2024/01/cannel-8.png"CHANNEL 8 HD
 https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
@@ -191,6 +191,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=tvg-idlogo=لۆگۆ" HORSE
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
 
 
 
