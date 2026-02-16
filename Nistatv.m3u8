@@ -1,9 +1,7 @@
 #EXTM3U  
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png",Kurd Channel
-http://stream-link.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png",RUDAW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png",RUDAW
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/k-24.png"KURDISTAN24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/k-24.png"KURDISTAN24
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ava.png"AVA NEWS HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
@@ -191,6 +189,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=tvg-idlogo=لۆگۆ" HORSE
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
 
 
 
