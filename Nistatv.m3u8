@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 CUID="8521" tvg-name="rudaw" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png" group-title=" ",RUDAW HD
+EXTINF:0,RUDAW HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:0,KURDISTAN24
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
@@ -37,37 +37,30 @@ https://live.kirkuklive.live/hls/stream/index.m3u8
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:0,LIKE MOVIES HD
 https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
-#EXTINF:0 CUID="8530" tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="KURDISH ",NEW LINE 1
+ EXTINF:0,NEW LINE 1
 http://109.123.245.192/Newline1/index.m3u8
-#EXTINF:0 CUID="8531" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",NEW LINE 2
+ EXTINF:0,NEW LINE 2
 http://109.123.245.192/Newline2/index.m3u8
-#EXTINF:0 CUID="8532" tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="KURDISH ",ZED TV
+EXTINF:0,ZED TV
 http://109.123.245.192/Zedtv/index.m3u8
-#EXTINF:0 CUID="8533" tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="KURDISH ",ZED TV PLUS
+EXTINF:0,ZED TV PLUS
 http://109.123.245.192/Zedplus/index.m3u8
-#EXTINF:0 CUID="8533" tvg-name="ASTERA FAMILY" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",ASTERA FAMILY
+EXTINF:0,ASTERA FAMILY
 http://109.123.245.192/asterafamley/index.m3u8
-#EXTINF:0 CUID="8533" tvg-name="ACE MOVIES" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-movie.png" group-title="KURDISH ",ACE MOVIES
+ EXTINF:0,ACE MOVIES
 http://109.71.252.138/Acemovies/video.m3u8?token=s4W6Cb8N4syaI1
-#EXTINF:0 CUID="8532" tvg-name="ACE GAMING" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-gaming.png" group-title="KURDISH ",ACE GAMING
+EXTINF:0,ACE GAMING
 http://109.71.252.138/Acegaming/video.m3u8?token=s4W6Cb8N4syaI1
-#EXTINF:0 CUID="8532" tvg-name="ACE Kids" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/ace-kids.png" group-title="KURDISH ", ACE Kids
+EXTINF:0,ACE Kids
 http://109.71.252.138/Acekods/video.m3u8?token=s4W6Cb8N4syaI1
-#EXTINF:0 CUID="8532" tvg-name="Ace Quean" tvg-logo="https://mixmedia.tv/wp-content/uploads/2023/03/acequean.png" group-title="KURDISH ", Ace Quean
+EXTINF:0, Ace Quean
 http://109.71.252.138/Acequran/video.m3u8?token=s4W6Cb8N4syaI1
-#EXTINF:0 CUID="8534" tvg-name="shnatv" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
+EXTINF:0,shnatv
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
-#EXTINF:0 CUID="8535" tvg-name="SHNA TV QURAN" tvg-logo="https://i.postimg.cc/Gc5XVBZ9/SHNAQ.png" group-title="KURDISH ",SHNA TV QURAN
+ EXTINF:0,SHNA TV QURAN
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:0 CUID="8536" tvg-name="ZAGROS TV" tvg-logo="https://i.postimg.cc/WpMq857p/Pics-Art-25-09-09-14-49-31-102.png" group-title="KURDISH ",ZAGROS TV
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
-#EXTINF:0 CUID="8537" tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/44C801bx/khak.png" group-title="KURDISH ",KHAK TV
-http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
-#EXTINF:0 CUID="8538" tvg-name="DUHOK-TV" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="KURDISH ",DUHOK-TV
-http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
-#EXTINF:0 CUID="8539" tvg-name="zaroktv" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURDISH ",zaroktv
-https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:0 CUID="8539" tvg-name="Rasan tv" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rasan.png" group-title="KURDISH ",Rasan tv
+
+EXTINF:0,Rasan tv
 http://109.123.245.192/Rasantv/index.m3u8
 #EXTINF:0,Gewher
 https://iptv-link.short.gy/Gewher.m3u8
