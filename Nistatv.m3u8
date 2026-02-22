@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 CUID="8531" tvg-name="rudaw" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png" group-title=" ",RUDAW HD
+#EXTINF:0 CUID="8521" tvg-name="rudaw" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png" group-title=" ",RUDAW HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:0,KURDISTAN24
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
