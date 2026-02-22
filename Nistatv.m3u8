@@ -37,30 +37,30 @@ https://live.kirkuklive.live/hls/stream/index.m3u8
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:0,LIKE MOVIES HD
 https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
- EXTINF:0,NEW LINE 1
+ 
+#EXTINF:0,NEW LINE 1
 http://109.123.245.192/Newline1/index.m3u8
- EXTINF:0,NEW LINE 2
+#EXTINF:0,NEW LINE 2
 http://109.123.245.192/Newline2/index.m3u8
-EXTINF:0,ZED TV
+#EXTINF:0,ZED TV
 http://109.123.245.192/Zedtv/index.m3u8
-EXTINF:0,ZED TV PLUS
+#EXTINF:0,ZED TV PLUS
 http://109.123.245.192/Zedplus/index.m3u8
-EXTINF:0,ASTERA FAMILY
+#EXTINF:0,ASTERA FAMILY
 http://109.123.245.192/asterafamley/index.m3u8
  EXTINF:0,ACE MOVIES
 http://109.71.252.138/Acemovies/video.m3u8?token=s4W6Cb8N4syaI1
-EXTINF:0,ACE GAMING
+#EXTINF:0,ACE GAMING
 http://109.71.252.138/Acegaming/video.m3u8?token=s4W6Cb8N4syaI1
-EXTINF:0,ACE Kids
+#EXTINF:0,ACE Kids
 http://109.71.252.138/Acekods/video.m3u8?token=s4W6Cb8N4syaI1
-EXTINF:0, Ace Quean
+#EXTINF:0, Ace Quean
 http://109.71.252.138/Acequran/video.m3u8?token=s4W6Cb8N4syaI1
-EXTINF:0,shnatv
+#EXTINF:0,shnatv
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
- EXTINF:0,SHNA TV QURAN
-http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-
-EXTINF:0,Rasan tv
+#EXTINF:0,SHNA TV QURAN
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:0,Rasan tv
 http://109.123.245.192/Rasantv/index.m3u8
 #EXTINF:0,Gewher
 https://iptv-link.short.gy/Gewher.m3u8
