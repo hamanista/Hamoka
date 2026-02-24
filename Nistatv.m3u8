@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:0,RUDAW HD
+#EXTINF:0,RUDAW HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:0,KURDISTAN24
 https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
