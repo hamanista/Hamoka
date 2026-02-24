@@ -37,7 +37,8 @@ https://live.kirkuklive.live/hls/stream/index.m3u8
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:0,LIKE MOVIES HD
 https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
- 
+ #EXTINF:0,Bask Plus
+http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8?fbclid=Iwb21leAQJ4JxjbGNrBAngc2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHo33vymJ2nIoRS94GTJe-Z0r88Upah_j1t5w_bmK50H1xjfHYbZDuq6ZnK1e_aem_t7vORwH-DsfoiSDoNEi7AQ
 #EXTINF:0,NEW LINE 1
 http://109.123.245.192/Newline1/index.m3u8
 #EXTINF:0,NEW LINE 2
